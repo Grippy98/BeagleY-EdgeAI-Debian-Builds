@@ -1,0 +1,25 @@
+/opt/psdk-rtos/workarea/vision_apps/out/J722S/A53/LINUX/release/module/kernels.fileio.host/tivx_fileio_node_api.o: \
+ /opt/psdk-rtos/workarea/vision_apps/kernels/fileio/host/tivx_fileio_node_api.c \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_vendors.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_types.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_kernels.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_api.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_nodes.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_khr_pipelining.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_khr_user_data_object.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_khr_bidirectional_parameters.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_debug.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_log_rt.h \
+ /opt/psdk-rtos/workarea/tiovx/kernels/include/TI/tivx_kernels.h \
+ /opt/psdk-rtos/workarea/tiovx/kernels/include/TI/tivx_nodes.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_mem.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_tensor.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_ext_raw_image.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_ext_super_node.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_soc.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/soc/tivx_soc_j722s.h \
+ /opt/psdk-rtos/workarea/vision_apps/kernels/fileio/include/TI/tivx_fileio.h \
+ /opt/psdk-rtos/workarea/vision_apps/kernels/fileio/include/TI/tivx_fileio_kernels.h \
+ /opt/psdk-rtos/workarea/vision_apps/kernels/fileio/include/TI/tivx_fileio_nodes.h

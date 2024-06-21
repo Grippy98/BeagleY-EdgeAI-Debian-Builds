@@ -1,0 +1,6 @@
+/opt/psdk-rtos/workarea/vision_apps/out/J722S/A53/LINUX/release/module/apps.utilities.app_mem/main_mem.o: \
+ /opt/psdk-rtos/workarea/vision_apps/apps/utilities/app_mem/main_mem.c \
+ /opt/psdk-rtos/workarea/app_utils/utils/mem/include/app_mem.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/console_io/include/app_log.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/timer/include/app_timer.h \
+ /opt/psdk-rtos/workarea/vision_apps/utils/app_init/include/app_init.h

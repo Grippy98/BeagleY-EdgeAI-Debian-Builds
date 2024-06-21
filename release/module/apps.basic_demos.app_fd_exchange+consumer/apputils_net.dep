@@ -1,0 +1,3 @@
+/opt/psdk-rtos/workarea/vision_apps/out/J722S/A53/LINUX/release/module/apps.basic_demos.app_fd_exchange+consumer/apputils_net.o: \
+ /opt/psdk-rtos/workarea/vision_apps/apps/basic_demos/app_fd_exchange/apputils_net.c \
+ /opt/psdk-rtos/workarea/vision_apps/apps/basic_demos/app_fd_exchange/apputils_net.h

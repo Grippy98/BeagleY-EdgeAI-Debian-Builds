@@ -1,0 +1,4 @@
+/opt/psdk-rtos/workarea/vision_apps/out/J722S/A53/LINUX/release/module/utils.opengl.src.a72/app_gl_egl_utils_linux.o: \
+ /opt/psdk-rtos/workarea/vision_apps/utils/opengl/src/a72/app_gl_egl_utils_linux.c \
+ //usr/include/libdrm/drm_fourcc.h \
+ /opt/psdk-rtos/workarea/vision_apps/utils/opengl/include/app_gl_egl_utils.h

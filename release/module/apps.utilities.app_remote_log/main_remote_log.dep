@@ -1,0 +1,8 @@
+/opt/psdk-rtos/workarea/vision_apps/out/J722S/A53/LINUX/release/module/apps.utilities.app_remote_log/main_remote_log.o: \
+ /opt/psdk-rtos/workarea/vision_apps/apps/utilities/app_remote_log/main_remote_log.c \
+ /opt/psdk-rtos/workarea/app_utils/utils/console_io/include/app_log.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/timer/include/app_timer.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/file_io/include/app_fileio.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/ipc/include/app_ipc.h \
+ /opt/psdk-rtos/workarea/vision_apps/platform/j722s/rtos/app_mem_map.h \
+ /opt/psdk-rtos/workarea/vision_apps/platform/j722s/rtos/common/app_cfg.h

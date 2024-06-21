@@ -1,0 +1,17 @@
+/opt/psdk-rtos/workarea/vision_apps/out/J722S/A53/LINUX/release/module/apps.tests.app_vx_conformance_hwa/main.o: \
+ /opt/psdk-rtos/workarea/vision_apps/apps/tests/app_vx_conformance_hwa/main.c \
+ /opt/psdk-rtos/workarea/tiovx/utils/include/tivx_utils_file_rd_wr.h \
+ /opt/psdk-rtos/workarea/tiovx/utils/include/tivx_utils.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_vendors.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_types.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_kernels.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_api.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_nodes.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_debug.h \
+ /opt/psdk-rtos/workarea/tiovx/utils/include/tivx_utils_bmp.h \
+ /opt/psdk-rtos/workarea/tiovx/conformance_tests/test_engine/test.h \
+ /opt/psdk-rtos/workarea/tiovx/conformance_tests/test_engine/test_utils.h \
+ /opt/psdk-rtos/workarea/tiovx/conformance_tests/test_engine/test_image.h \
+ /opt/psdk-rtos/workarea/vision_apps/utils/app_init/include/app_init.h \
+ /opt/psdk-rtos/workarea/imaging/kernels/hwa/test/test_main.h

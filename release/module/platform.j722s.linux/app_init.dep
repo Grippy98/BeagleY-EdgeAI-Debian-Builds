@@ -1,0 +1,11 @@
+/opt/psdk-rtos/workarea/vision_apps/out/J722S/A53/LINUX/release/module/platform.j722s.linux/app_init.o: \
+ /opt/psdk-rtos/workarea/vision_apps/platform/j722s/linux/app_init.c \
+ /opt/psdk-rtos/workarea/app_utils/utils/mem/include/app_mem.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/console_io/include/app_log.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/timer/include/app_timer.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/file_io/include/app_fileio.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/ipc/include/app_ipc.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/remote_service/include/app_remote_service.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/perf_stats/include/app_perf_stats.h \
+ /opt/psdk-rtos/workarea/vision_apps/platform/j722s/rtos/app_mem_map.h \
+ /opt/psdk-rtos/workarea/vision_apps/platform/j722s/rtos/common/app_cfg.h

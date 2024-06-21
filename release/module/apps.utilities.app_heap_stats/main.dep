@@ -1,0 +1,14 @@
+/opt/psdk-rtos/workarea/vision_apps/out/J722S/A53/LINUX/release/module/apps.utilities.app_heap_stats/main.o: \
+ /opt/psdk-rtos/workarea/vision_apps/apps/utilities/app_heap_stats/main.c \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_vendors.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_types.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_kernels.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_api.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_nodes.h \
+ /opt/psdk-rtos/workarea/vision_apps/utils/app_init/include/app_init.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/ipc/include/app_ipc.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/perf_stats/include/app_perf_stats.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/mem/include/app_mem.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/console_io/include/app_log.h \
+ /opt/psdk-rtos/workarea/app_utils/utils/timer/include/app_timer.h

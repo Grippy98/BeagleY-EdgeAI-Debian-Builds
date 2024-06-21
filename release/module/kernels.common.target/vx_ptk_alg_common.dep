@@ -1,0 +1,29 @@
+/opt/psdk-rtos/workarea/vision_apps/out/J722S/A53/LINUX/release/module/kernels.common.target/vx_ptk_alg_common.o: \
+ /opt/psdk-rtos/workarea/vision_apps/kernels/common/target/vx_ptk_alg_common.c \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_vendors.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_types.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_kernels.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_api.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_nodes.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_khr_pipelining.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_khr_user_data_object.h \
+ /opt/psdk-rtos/workarea/tiovx/include/VX/vx_khr_bidirectional_parameters.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_debug.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_log_rt.h \
+ /opt/psdk-rtos/workarea/tiovx/kernels/include/TI/tivx_kernels.h \
+ /opt/psdk-rtos/workarea/tiovx/kernels/include/TI/tivx_nodes.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_mem.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_tensor.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_ext_raw_image.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_ext_super_node.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_soc.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/soc/tivx_soc_j722s.h \
+ /opt/psdk-rtos/workarea/vision_apps/kernels/common/target/vx_ptk_alg_common.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_target_kernel.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_obj_desc.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/tivx_config.h \
+ /opt/psdk-rtos/workarea/tiovx/include/TI/soc/tivx_config_j722s.h \
+ /opt/psdk-rtos/workarea/ti-perception-toolkit/include/perception/algos/alg_common.h \
+ /opt/psdk-rtos/workarea/ti-perception-toolkit/include/perception/utils/api_memory_if.h
