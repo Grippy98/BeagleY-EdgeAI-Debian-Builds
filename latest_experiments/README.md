@@ -1,6 +1,6 @@
 
 
-## We Start with Rahul's Ravikumar's Repo. - Expects x86 build Env - Used Ubuntu 22.04 VM
+## We Start with EdgeAI App Stack Repo. - Expects x86 build Env - Used Ubuntu 22.04 VM
 
 Starting Repo: https://github.com/TexasInstruments/edgeai-app-stack
 
