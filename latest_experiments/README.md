@@ -180,16 +180,11 @@ https://files.beagle.cc/file/beagleboard-public-2021/images/beagley-ai-debian-12
 
 
 ### To Download EdgeAI-GST-APPS Models 
-EDGEAI SDK VERSION NEEDS TO BE SET 
+EDGEAI SDK VERSION NEEDS TO BE SET, AS DOES SOC 
 ```
-export EDGEAI_SDK_VERSION=09_02_00 
-./download_models.sh --recommended
+wget https://raw.githubusercontent.com/TexasInstruments/edgeai-gst-apps/main/download_models.sh
+SOC=j722s EDGEAI_SDK_VERSION=09_02_00 ./download_models.sh --recommended
 ```
-https://github.com/TexasInstruments/edgeai-gst-apps/blob/main/download_models.sh 
-
-
-
-
 
 On BeagleY I created a folder called edgyAI and I just SFTPd ` ```targetfs/opt``` ```targetfs/lib``` from the build X86 desktop to the Beagle. 
 
